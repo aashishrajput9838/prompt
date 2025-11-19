@@ -7,3 +7,7 @@ Give me completed code in java . Make sure
 typink link: 
 https://github.com/aashishrajput9838/typink/releases/download/v1.0.1/Typink.exe
 
+chrome extension link:
+https://chromewebstore.google.com/detail/always-active-window-alwa/ehllkhjndgnlokhomdlhgbineffifcbj?hl=en&pli=1
+
+
