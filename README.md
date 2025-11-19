@@ -13,4 +13,9 @@ https://chromewebstore.google.com/detail/always-active-window-alwa/ehllkhjndgnlo
 To create a new desktop (virtual desktop) in Windows, use the keyboard shortcut:
 Win + Ctrl + D
 
+Desktop switch karne ka shortcut:
+
+👉 Win + Ctrl + Right Arrow → next desktop
+👉 Win + Ctrl + Left Arrow → previous desktop
+
 
