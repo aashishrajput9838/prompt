@@ -10,4 +10,7 @@ https://github.com/aashishrajput9838/typink/releases/download/v1.0.1/Typink.exe
 chrome extension link:
 https://chromewebstore.google.com/detail/always-active-window-alwa/ehllkhjndgnlokhomdlhgbineffifcbj?hl=en&pli=1
 
+To create a new desktop (virtual desktop) in Windows, use the keyboard shortcut:
+Win + Ctrl + D
+
 
