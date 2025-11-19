@@ -10,7 +10,7 @@ https://github.com/aashishrajput9838/typink/releases/download/v1.0.1/Typink.exe
 chrome extension link:
 https://chromewebstore.google.com/detail/always-active-window-alwa/ehllkhjndgnlokhomdlhgbineffifcbj?hl=en&pli=1
 
-corsor latest link:
+cursor latest link:
 https://cursor.com/download
 
 
@@ -19,7 +19,10 @@ Win + Ctrl + D
 
 Desktop switch karne ka shortcut:
 
-👉 Win + Ctrl + Right Arrow → next desktop
-👉 Win + Ctrl + Left Arrow → previous desktop
+ Win + Ctrl + Right Arrow → next desktop
+ 
+ Win + Ctrl + Left Arrow → previous desktop
+
+ win+ tab    for displaying the active screens
 
 
